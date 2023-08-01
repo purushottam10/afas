@@ -1,5 +1,5 @@
 import React from 'react'
-import { Newcmp } from './Newcmp'
+// import { Newcmp } from './Newcmp'
 import Contact from './Contact'
 
 export const Services = () => {
@@ -7,7 +7,7 @@ export const Services = () => {
     <section id="services">
     <div>
 
-      <Newcmp />
+      {/* <Newcmp /> */}
 
 
       <section id="fundbased">

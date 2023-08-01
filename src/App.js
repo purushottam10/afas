@@ -23,6 +23,8 @@ import FrameComponent21 from './components/NNavabr';
 import {Route,Routes} from "react-router-dom"
 import NewNavbar from './components/Newnavbar';
 import { Newcmp } from './components/Newcmp';
+import HomePage from './HomePage';
+
 function App() {
 
   return (
@@ -32,19 +34,10 @@ function App() {
 <Newcmp/>
 <Routes>
   <Route path="/services" element={<Services />}></Route>
+  <Route path="/" element={<HomePage />}></Route>
 
 </Routes>
-<Home1 />
-<AnimatedNumberSections1 />
 
-<About />
-
-<FrameComponent />
-<Expertise />
-
-<CarouselFadeExample />
-<Facts />
-<Contact />
 
 
 
