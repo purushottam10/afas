@@ -1,0 +1,30 @@
+.animated-number-sections {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-wrap: wrap;
+  
+    margin: 0 auto;
+    background-color: rgb(211, 211, 211);
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    padding: 1rem;
+    
+    text-align: center;
+    width: 100%;
+    height: -20vw;
+    
+ 
+  }
+  
+  .childanimation{
+    margin-left: 1rem;
+    color: rgb(0, 0, 0);
+    margin-right: 7rem;
+   
+  
+    
+   
+  }
+  
