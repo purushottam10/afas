@@ -34,6 +34,7 @@ const Contact = () => {
               <i class="bi bi-geo-alt"></i>
               <h3>Address</h3>
               <address>A108 Adam Street, NY 535022, USA</address>
+              {/* Todo update the proper address  */}
             </div>
           </div>
 
